@@ -12,3 +12,4 @@ You can even play it online on web : [web link](https://tictactoe-online-game.ne
 ### `#For flutter packages run: pub get  && to run flutter project run : flutter run  or in vscode click on run from the banner and click on run without debugging or start degugging.`
 
 ### `# for packages of server go in server directory and run npm i or npm install.`
+<a href="https://www.buymeacoffee.com/chberry830"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
